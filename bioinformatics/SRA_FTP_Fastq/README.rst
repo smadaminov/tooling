@@ -10,10 +10,9 @@ This folder contains tools to work with `SRA FTP server`_ hosted on ENA servers:
 
 Download Fastq Files
 --------------------
-
-This is a Perl script to download paired-ended reads stored on the ENA servers
-in the Fastq format. It takes a file name as its argument. This files should
-contain a list of accession names to download.
+`ena_fastq_download.pl` is a Perl script to download paired-ended reads stored
+on the ENA servers in the Fastq format. It takes a file name as its argument.
+This files should contain a list of accession names to download.
 
 To use this script you need to have `perl` installed, which is usually already
 comes pre-installed in major Linux distributions. It was tested with a Perl
