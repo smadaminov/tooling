@@ -6,12 +6,10 @@ This folder contains tools to work with `SRA FTP server`_ hosted on ENA servers:
 .. _SRA FTP SERVER:
     https://ena-docs.readthedocs.io/en/latest/retrieval/file-download/sra-ftp-structure.html
 
-- :ref:`sra_fastq_download.pl`
+.. contents:: Table of Contents
 
-.. _sra_fastq_download_section:
-
-sra_fastq_download.pl
----------------------
+Download Fastq Files
+--------------------
 
 This is a Perl script to download paired-ended reads stored on the ENA servers
 in the Fastq format. It takes a file name as its argument. This files should
