@@ -40,3 +40,4 @@ TODO
 ----
 - [sra_fastq_download.pl] add support for single-ended reads
 - [sra_fastq_download.pl] add Windows version for the script
+- [sra_fastq_download.pl] add support for other formats
