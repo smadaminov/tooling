@@ -29,7 +29,7 @@ Usage example::
     SRR9999671
     SRR999666
     SRR2443265
-    $ perl perl ./ena_fastq_download.pl -f accession_names.lst
+    $ perl ./ena_fastq_download.pl -f accession_names.lst
 
 You can also generate man page for the script (or similarly, in other format)::
 
